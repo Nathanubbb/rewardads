@@ -1,2 +1,2 @@
-# rewardads
-The official RewardADs' github
+# RewardADs
+The official RewardADs' github repository
