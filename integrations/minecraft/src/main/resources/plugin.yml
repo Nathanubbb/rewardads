@@ -1,0 +1,10 @@
+name: RewardADsGui
+version: '1.0'
+main: it.nathanub.rewardADsInter.Main
+depend:
+  - RewardADs
+commands:
+  rewardadsinterface:
+    description: Spam command to let everyone know that this server uses the premade RewardADs interface
+    usage: /rewardadsinterface
+    aliases: [ rewardadsinter, rewardadsinterface ]

@@ -1,0 +1,5 @@
+rewards:
+  1234567:
+    command: "say %player% %name% %cost% %id%"
+  7654321:
+    command: "say HI"
