@@ -1,0 +1,15 @@
+name: 'RewardADs'
+version: '5.0'
+main: it.nathanub.rewardads.SpigotMain
+api-version: '1.13'
+description: 'RewardADs official library for Spigot'
+authors: [Nathanub, WiinUp_YT]
+commands:
+  rewardads:
+    description: 'Spam command and for reload'
+  link:
+    description: 'Link command'
+  unlink:
+    description: 'Unlink command'
+  confirm:
+    description: 'Verify your server'
